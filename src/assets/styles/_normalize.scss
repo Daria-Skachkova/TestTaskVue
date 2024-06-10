@@ -1,0 +1,44 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+input,
+figure,
+figcaption,
+button,
+picture,
+ul,
+li,
+textarea,
+p {
+  margin: 0;
+  padding: 0;
+}
+button,
+input,
+select {
+  outline: none;
+  border: none;
+  font-size: inherit;
+  font-family: inherit;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+}
+html {
+  scroll-behavior: smooth;
+}
+* {
+  box-sizing: border-box;
+}
