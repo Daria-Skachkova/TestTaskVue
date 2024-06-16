@@ -1,5 +1,12 @@
 # TestTask
 
+# Description
+
+This app consists of 2 pages - Login and Home. It uses Jsonplaceholder APIs for fetching data. The Login page displays a form with immediate input validation. The Home page consists of 2 blocks - user details and a todo list. The Todo List has a filtration, search, adding to favorites and a form for creation of a new Todo.
+Stack: Vue 3, Pinia, VueRouter, Typescript, LocalStorage, RESTful API, SCSS.
+
+# Installation
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
